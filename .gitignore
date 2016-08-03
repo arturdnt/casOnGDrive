@@ -1,0 +1,19 @@
+.DS_Store
+
+# Logs
+logs
+*.log
+
+# Runtime data
+pids
+*.pid
+*.seed
+
+# Compiled binary addons (http://nodejs.org/api/addons.html)
+build/Release
+
+# Dependency directories
+node_modules
+bower_components
+
+
